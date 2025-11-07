@@ -1,5 +1,5 @@
 # Simple Interest Calculator 💰
-
+(Updated small typo)
 This project is a simple Bash shell script that calculates Simple Interest based on the principal amount, rate of interest, and time period provided by the user.
 
 ## 📜 Formula
