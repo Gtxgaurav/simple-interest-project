@@ -13,10 +13,9 @@ Where:
 ## ⚙️ Usage
 Run the script using:
 ```bash
-bash simple-interest.sh
-```
 
-You will be prompted to enter the principal, rate, and time.
+
+
 
 ## 🧑‍💻 Example Output
 ```
